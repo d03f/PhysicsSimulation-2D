@@ -30,7 +30,7 @@ public class App extends Application {
     	Scene scene = new Scene(root, WIDTH, HEIGHT);
     	
     	stage.setScene(scene);
-    	stage.setTitle("HOlaa");
+    	stage.setTitle("PhysicSimulator 2d");
     	stage.show();
     	
     	
