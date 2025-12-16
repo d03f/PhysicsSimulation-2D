@@ -5,13 +5,13 @@ The aim was to make use of common design patterns to make the code as modular an
 
 The funcitonalities added till now are:
 * **Nodes** 
-    * **Speed and direction**
+    * **Speed, direction and forces**
     * **Mass** 
     * **Gravity** 
     * **Drag**
     * **Out of bounds bounces** 
     * **Elasticity**
-    * **Fixed Nodeds**
+    * **Fixed Nodes**
 
 * **Springs**
     * **Stiffness**
